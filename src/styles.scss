@@ -1,0 +1,12 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:wght@400;700&family=Bungee+Shade&display=swap');
+
+$family-sans-serif: "Anonymous Pro", monospace, sans-serif;
+$family-title-cursive: "Bungee Shade", cursive;
+
+h1.title.main {
+    font-family: $family-title-cursive;
+    font-size: 42px;
+}
+
+@import "~bulma/bulma";
