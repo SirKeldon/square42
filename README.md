@@ -6,7 +6,7 @@ Yet another Game Of Life (RxJS stateless)
 
 This is another exercise to code one of the most classy solo games, in this case a particular one cause it plays by itself and it was created more to be a mathematical exercise, Game Of Life. Never used RxJS nor stateless, so this game was the perfect candidate to do it.
 
-Still pending to add controls in order to be able to control the grid.
+Still pending to add controls in order to be able to control the grid.|
 
 # How to run the game?
 
