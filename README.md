@@ -1,6 +1,6 @@
 # square42
 
-Yet another Game Of Life (RxJS stateless)
+Yet another Game Of Life (RxJS stateless) - [DEMO](https://sirkeldon.github.io/square42)
 
 # What is this?
 
